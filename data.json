@@ -1,0 +1,375 @@
+{
+   "intents":[
+      {
+         "tag":"greeting",
+         "question":[
+            "Chào bot",
+            "Chào admin",
+            "Hi bot",
+            "Hi admin",
+			"Hi",
+            "chào bạn",
+			"Hỗ trợ",
+			"Giúp đỡ",
+            "Hello",
+            "Alo",
+            "Có ai không",
+            "Có ai chat được bây giờ không",
+            "Tôi có câu hỏi",
+            "Bạn có thể trợ giúp không",
+            "Alo admin",
+            "cho hỏi",
+            "cần giúp đỡ",
+            "hỗ trợ thông tin",
+			"Admin cho minh hỏi hỗ trợ đươc không"
+         ],
+         "answer":[
+            "Xin Chào, Bạn cần hỗ trợ thông tin gì ạ"
+         ]
+      },
+      {
+         "tag":"goodbye",
+         "question":[
+            "cảm ơn admin đã hỗ trợ",
+            "cảm ơn admin nhé",
+            "hẹn gặp lại admin nhé",
+            "cảm ơn admin đã giúp đỡ",
+            "cảm ơn bot đã hỗ trợ",
+            "cảm ơn bot nhé",
+            "hẹn gặp lại bot nhé",
+            "cảm ơn bot đã giúp đỡ",
+            "hẹn gặp lại",
+            "có gì mình inbox sau nhé",
+            "cảm ơn admin dễ thương",
+            "cảm ơn bot nhiệt tình",
+            "cảm ơn bot dễ thương",
+            "cảm ơn admin nhiệt tình",
+            "chào admin nhé",
+            "chào bot nhé",
+            "chào nhé",
+            "tạm biệt nhé",
+            "tạm biệt admin",
+            "tạm biệt bot",
+            "hẹn gặp lại bot sau nha",
+            "có gì mình liên lạc nhé",
+            "có gì mình liên lạc bot nhé",
+            "có gì mình liên lạc admin nhé",
+            "cảm ơn đã hỗ trợ nhé",
+            "lần sau có gì mình ib lại nhé",
+            "cảm ơn bot, sau này có dịp mình nt",
+            "chào bot nhé, cảm ơn đã hỗ trợ mình",
+            "chào admin nhé, cảm ơn vì đã hỗ trợ",
+            "Ok admin, hẹn sau nhé",
+            "Ok bot, cảm ơn nhé",
+            "có gì ib sau",
+            "chào bạn, hẹn ib sau nhé",
+            "cám ơn đã support nhé",
+            "cám ơn các thông tin nhé",
+            "chào bạn nhé",
+            "hy vọng còn gặp lại",
+            "chào bot dễ thương nhé",
+            "chào admin dễ thương nhé",
+            "chào bot đáng yêu nha",
+            "chào bot nhiệt tình nhé",
+            "bye bot",
+            "good bye admin",
+            "cảm ơn admin, good bye",
+			"good bye",
+            "see you again",
+            "see you later",
+            "chúc ngủ ngon",
+            "chúc ngày mới vui vẻ",
+            "chào bot, see you later",
+            "chào admin, see you later"
+         ],
+         "answer":[
+            "Cảm ơn anh! Chào anh",
+            "Chúc anh một ngày tốt lành!",
+            "Chào anh, cảm ơn anh đã quan tâm"
+         ]
+      },
+      {
+         "tag":"Thoi_gian_BD",
+         "question":[
+            "Đi du lịch Bình Dương mùa nào",
+            "Nên du lịch Bình Dương thời gian nào",
+            "Nên đi phượt Bình Dương vào mùa nào, tháng mấy?",
+            "Nên đi phượt Bình Dương khi nào",
+            "Thời điểm tuyệt nhất du lịch Bình Dương",
+            "Thời điểm thích hợp du lịch Bình Dương",
+            "Nên đi du lịch khu vực Bình Dương vào thời điểm nào",
+            "Đi vào thời gian nào"
+         ],
+         "answer":[
+            "Với đặc trưng thời tiết ôn hòa quanh năm, thuận tiện cho việc tham quan. Do vậy, bạn có thể du lịch Bình Dương tham quan, vui chơi vào bất kì thời gian nào trong năm đều thích hợp nhé. \nTuy nhiên, nếu bạn nào muốn thưởng thức trái cây miệt vườn sông nước thì nên du lịch Bình Dương vào tháng 5-8. \n Hoặc đi vào tầm rằm tháng Giêng Âm lịch hàng năm để tham dự lễ hội chùa Bà nhé."
+         ]
+      },
+      {
+         "tag":"Khách_sạn_BD",
+         "question":[
+            "du lịch bình dương thì ở đâu",
+            "Gợi ý nơi lưu trú giá rẻ",
+            "Những khách sạn được yêu thích tại Bình Dương",
+            "Đâu là Khách sạn tốt nhất Bình Dương",
+            "Khách sạn giá rẻ Bình Dương",
+            "Khách sạn tiện nghi tại Bình Dương",
+            "Khách sạn đang giảm giá tại Bình Dương",
+            "Homestay Bình Dương",
+            "Khách sạn gần đây",
+            "Khách sạn nào ở Bình Dương có tầm nhìn đẹp",
+            "Khách sạn Bình Dương giá bao nhiêu",
+            "Khách sạn Bình Dương phù hợp cho gia đình",
+            "Giá khách sạn Bình Dương",
+            "Khách sạn nào ở Bình Dương được đánh giá cao",
+            "Đánh giá Khách sạn Bình Dương",
+            "Khách sạn khu vực Bến Cát",
+            "Khách sạn phù hợp cho cặp đôi ở Bình Dương",
+            "Bình dương nghỉ ở đâu phù hợp để du lịch",
+			"bình dương có những nhà nghỉ nào",
+			"Nhà nghỉ nổi tiếng tại bình dương",
+			"nhà nghỉ tiện nghi bình dương",
+			"nhà nghỉ 1,2,3,4,5 sao bình dương",
+			"nhà nghỉ gần trung tâm bình dương",
+			"khách sạn gần trung tâm bình dương",
+			"các địa điểm khách sạn bình dương",
+			"các địa điểm nhà nghỉ bình dương"
+			],
+         "answer":[
+            "Bình Dương không thiếu những khách sạn và nhà nghỉ từ đơn giản đến sang chảnh, từ cao cấp đến bình dân, giá nào cũng có cho bạn lựa chọn.\n Bot có thể gợi ý một số cho bạn:\n - An lạc Hotel (Đường DA 1-2, Thị trấn Mỹ Phước 2, Bến Cát, Việt Nam): Khách sạn giáp đường lộ, gần với một số địa điểm vui chơi như Làng tre Phú An, nhà thờ Phú Cường. Khách sạn có khá nhiều phòng và giá trung bình cho một đêm là 280k/ phòng đôi. \n - Khách sạn Long Bảo Châu (số 9 đường D10, khu dân cư Chánh Nghĩa, phường Chánh Nghĩa, Thủ Dầu Một, Bình Dương): Nằm ngay ở trung tâm thành phố Bình Dương, khách sạn Long Bảo Châu nhận được review tốt về dịch vụ lưu trú cũng như chất lượng chỗ ở. Giá không quá mắc, chỉ từ 250k/ đêm cho phòng đôi. \n - Khách sạn Thiên Hà ( 58 đường D9 , Thủ Dầu Một, Bình Dương): Từ khách sạn, du khách có thể tới thăm các địa danh nổi tiếng của Bình Dương như chùa Tây Tạng, chùa Thái Sơn, sân golf Sông Bé… Giá phòng cho một đêm từ 500k trở lên. \n- Ruby Motel (892 Nguyễn Chí Thanh, Thủ Dầu Một, Bình Dương): Khách sạn tuy nhỏ nhưng gần với khu Đại Nam Văn hiến, phòng ốc sạch sẽ. Giá phòng chỉ từ 200k trở lên.\n - SPRING HOTEL 23D, Đường N2, KP Đông Nhì, Phường Lái Thiêu, Thị Xã Thuận An, Bình Dương, Thủ Dầu Một, Việt Nam. \n –Phòng nghỉ tại SPRING HOTEL được trang bị ấm đun nước, tủ để quần áo, TV màn hình phẳng và phòng tắm riêng.Sân bay gần nhất là sân bay quốc tế Tân Sơn Nhất, cách chỗ nghỉ 19 km. Trung bình 360k/đêm. \n- The Green House - Serviced Apartment.68 D8 Street, Chanh Nghia Ward, Thu Dau Mot, Thủ Dầu Một, Việt Nam –Giá trung bình 889.000/đêm.\n- The Mira Hotel-555B Binh Duong Boulevard, Thủ Dầu Một, Việt Nam. Tận hưởng dịch vụ đỉnh cao, đẳng cấp thế giới tại The Mira Hotel. Chiếm vị trí trung tâm ở thành phố Thủ Dầu Một, có chỗ đậu xe oto. Giá trung bình  1.617.000/đêm."
+         ]
+      },
+      {
+         "tag":"Vui_chơi_BD",
+         "question":[
+            "Chơi gì ở Bình Dương",
+            "Khu vui chơi nổi bật Bình Dương",
+            "Nên đi đâu ở Bình Dương",
+            "Du lịch Bình Dương nên đi đâu",
+            "Bình Dương Khu nổi tiếng",
+            "Bình Dương tham quan",
+            "Nơi nào có cảnh đẹp ở Bình Dương",
+            "Bình Dương nơi nào đẹp",
+            "Cảnh đẹp Bình Dương",
+            "Bình Dương nơi nào đẹp",
+            "Địa điểm check in Bình Dương",
+            "Nơi nào chụp hình đẹp ở Bình Dương",
+            "Chụp hình chất ở Bình Dương",
+            "Sống ảo Bình Dương",
+            "đẹp rụng tim",
+            "Địa điểm chụp hình lãng mãn Bình Dương",
+            "Chụp hình lý tưởng Bình Dương",
+            "Chụp hình lý tưởng bình dương",
+            "chụp hình đẹp Bình dương",
+            "chụp hình selfie tại bình dương",
+            "Tự sướng tại Bình Dương",
+            "Nơi sống ảo đẹp ở Bình Dương",
+            "Nơi nào ở Bình Dương phù hợp đi chơi gia đình",
+            "nơi nào có thể dẫn người yêu đi chơi ở Bình Dương",
+            "Địa điểm ăn chơi giá rẻ ở BD",
+            "Chỗ chơi vui ở Bình Dương",
+            "Những nơi thiên đường ở Bình Dương",
+            "Chỗ chơi phù hợp cho dân phượt",
+            "Đến Bình Dương không thể bỏ lỡ",
+            "Địa điểm vui chơi cho phượt thủ",
+			"Tôi muốn đi phượt",
+            "Ăn chơi giá rẻ Bình Dương",
+            "Lần đầu đến Bình Dương nên đi đâu",
+            "Sinh viên Bình Dương chơi ở đâu",
+            "Tổ chức vui chơi ở bình dương nên đi đâu"
+         ],
+         "answer":[
+            "Tôi có thể giới thiệu cho bạn một số nơi nổi bật ở Bình Dương:\n - Khu du lịch Thủy Châu nổi tiếng với dòng suối nhân tạo.nằm tại Bình Thắng, Dĩ An, Bình Dương.\n- Khu du lịch Đại Nam Văn Hiến.Ở đây cũng có bãi biển nhân tạo lớn nhất Việt Nam và khu vườn thú với nhiều loại động vật quý hiếm.\n- Nhà thờ Phú Cường.Nằm ngay trên đường Lạc Long Quân của thành phố Thủ Dầu Một, nhà thờ Phú Cường là một trong những nhà thờ thánh lớn nhất Bình Dương.\n - Hồ Dầu Tiếng là một công trình thủy lợi lớn có diện tích khoảng 27.000ha với sức chứa hơn 1,5 tỷ m3 nước.\n - Công viên Thành phố Mới Có diện tích rộng hơn 70ha và được xây dựng theo tiêu chuẩn của Singapore, công viên Thành phố Mới Bình Dương không chỉ là lá phổi xanh, là trung tâm hành chính của toàn thành phố mà còn là địa điểm vui chơi giải trí yêu thích của giới trẻ trong những năm gần đây.\n - Chùa Hội Khánh Là nơi có bức tượng Phât nằm khổng lồ dài nhất Châu Á (52m).\n- Một số địa điểm tham quan khác: Chùa Bà Thiên Hậu, hồ Bình An, quán cà phê Mây và Gió, chùa Tây Tạng, sân golf Sông Bé, cầu Gãy, AEON Mall Bình Dương,…"
+         ]
+      },
+      {
+         "tag":"Chơi_Đêm_BD",
+         "question":[
+            "Bình Dương có gì chơi về đêm",
+            "Quẩy đêm tại Bình Dương",
+            "Về đêm Bình Dương nơi nào đẹp",
+            "chơi buổi tối tại bình dương",
+            "Bình Dương về đêm",
+			"những địa điểm đẹp về đêm ở bình dương",
+			"vui chơi bình dương về đêm"
+         ],
+         "answer":[
+            "Cùng tôi note lại ngay TOP điểm ăn chơi đêm “siêu ly kỳ” cho hội cuồng chân Bình Dương tha hồ “quẩy” vào buổi tối nhé!\n- Phố đêm Bạch Đằng:Một nét văn hóa đặc sắc trong đời sống của giới trẻ ở thành phố Thủ Dầu Một khi đêm về chính là con đường Bạch Đằng siêu sầm uất.Địa chỉ: đường Bạch Đằng, P. Phú Cường, TP. Thủ Dầu Một.\n- Chợ đêm Thủ Dầu Một: Chợ Thủ Dầu Một là một trong những khu chợ giữ vị trí trung tâm thương mại tiêu biểu của toàn tỉnh Bình Dương.Địa chỉ: 50 Nguyễn Thái Học, P. Phú Cường, TP. Thủ Dầu Một. \n- Nhà thờ Chánh Tòa Phú Cường: Tọa lạc gần vòng xoay ngã 6 Thủ Dầu Một, nhà thờ chánh tòa Phú Cường là một trong những tòa thánh lớn nhất ở Bình Dương. \n- Vòng xoay Ngã 6; Là biểu tượng muôn đời mà bất kỳ người dân Bình Dương nào cũng phải biết, vòng xoay Ngã 6 tọa lạc “độc chiếm” tại vị trí trung tâm và được bao quanh bởi nhiều con đường sầm uất, trong đó có 2 con đường lớn nhất là Yersin và Cách Mạng Tháng 8.\n- Cafe Gió & Nước: Đây là công trình đã giành được rất nhiều giải thưởng của Hội Kiến trúc sư Việt Nam và quốc tế vì thiết kế độc đáo, gần gũi với thiên nhiên.\n- Chùa Bà Thiên Hậu: Đây là một trong những ngôi chùa nổi tiếng linh thiêng ở Bình Dương do hội người Việt gốc Hoa đóng góp và xây dựng để thờ vị nữ thần Thiên Hậu Thánh Mẫu.\n - Midori Park: là một mô hình không gian xanh khá được yêu thích ở Nhật Bản và lần đầu tiên có mặt tại Việt Nam.\n - Công viên thành phố mới Bình Dương:Toàn bộ công viên được thiết kế theo mô hình xanh bao gồm nhiều đài phun nước, suối, hồ nhân tạo, nhiều cây xanh, quảng trường và khu vui chơi dành cho thiếu nhi."
+         ]
+      },
+	  {
+	  "tag":"quán_bar",
+	  "question":[
+	  "quán bar nổi tiếng tại bình dương",
+	  "bình dương có những quán bar nào",
+	  "vui chơi quán bar tại bình dương",
+	  "bar xịn xò tại bình dương",
+	  "bar có cảnh đẹp tại bình dương",
+	  "bar ngoài trời bình dương",
+	  "tiệm beer ngoài trời",
+	  "tiệm bia ngoài trời",
+	  "tiệm beer trong nhà",
+	  "tiệm bia trong nhà",
+	  "quán bar được yêu thích tại bình dương",
+	  "quán beer được yêu thích tại bình dương",
+	  "quán bia được yêu thích tại bình dương",
+	  "bar bay bổng bình dương",
+	  "beer DJ bình dương",
+	  "bia DJ bình dương",
+	  "bar gần trung tâm bình dương",
+	  "beer gần trung tâm bình dương",
+	  "bia gần trung tâm bình dương"
+	  ],
+	  "answer":[ 
+	  " bot giới thiệu bạn một số địa điểm tham khảo như:\n- Thuận Thiên,beer clup: 108 Võ Thị Sáu,phường Đông Hoà,Dĩ An,Bình dương.\n - Phương Ngân Bar: D3 khu đô thị Chánh Nghĩa,phường Chánh Nghĩa,Thủ Dầu Một,Bình Dương. \n- Vita clup:tầng 4 becamex tower,230 đại lộ Bình Dương. \n- Diamond luxury bar: A45c đại lộ Bình Dương,Phường Hiệp Thành,Thủ Dầu Một,Bình Dương. \n- fuak fuak beer house: 35D Hoàng Văn Thụ,Chánh Nghĩa,Bình Dương."
+	  ]
+	  },
+      {
+         "tag":"Quan_cafe",
+         "question":[
+            "Quán cafe nổi tiếng Bình Dương",
+            "quán cafe view đẹp Bình Dương",
+            "Đồ uống ngon Bình dương",
+            "Quán cafe sang chảnh",
+            "Cafe cảnh đẹp",
+            "Cafe du lịch bình dương",
+            "Danh sách quán cafe Bình Dương"
+         ],
+         "answer":[
+            "Những quán cafe đẹp ở Bình Dương.\n- Gió Và Nước Cafe:Trần Bình Trọng, Thị Xã Thủ Dầu Một, Bình Dương.\n - Cafe Hoàng Cung: 45 Trần Bình Trọng, P. Phú Thọ, Thị Xã Thủ Dầu Một, Bình Dương. \n- Cafe Lâu Đài Phố: Trần Thị Vững, KDC Himlam Phú Đông, P. An Bình, Dĩ An, Bình Dương.\n - Café vườn ươm: 59 Đường N7, KDC Phú Hoà, P. Phú Hoà, Thị Xã Thủ Dầu Một, Bình Dương.\n- Hội Cafe:  số 113/120 Trần Văn Ơn thị xã Thủ Dầu Một, thành phố Bình Dương."
+         ]
+      },
+      {
+         "tag":"phương_tiện",
+         "question":[
+            "Du lịch Bình Dương di chuyển bằng gì",
+            "Du lịch tại Bình Dương đi bằng gì",
+            "Phương tiện du lịch Bình Dương",
+            "Danh sách phương tiện di chuyển Bình Dương"
+         ],
+         "answer":[
+            "Nằm cách Tp. Hồ Chí Minh khoảng 30km về phía Nam nếu xuất phát từ Tp.HCM bạn có thể di chuyển bằng xe cá nhân, đi xe bus hoặc xe khách của Bình Phước đều được. Nếu di chuyển bằng xe máy hoặc ôtô riêng bạn có thể đi theo lộ trình sau: Cầu Bình Triệu/cầu Sài Gòn – Quốc lộ 13 – Quốc lộ 14 xuyên suốt tỉnh Bình Dương."
+         ]
+      },
+      {
+         "tag":"Khu_Du_lịch",
+         "question":[
+            "Nơi ở cho Khách du lịch",
+            "khu du lịch Bình Dương",
+            "Nơi nghỉ dưỡng tại Bình Dương",
+            "du lịch sinh thái Bình Dương",
+            "Resort Bình Dương"
+         ],
+         "answer":[
+            "Các khu du lịch ở Bình Dương:\n\t1.Khu du lịch Đại Nam\n\t 2.Khu du lịch Thủy Châu. \n\t 3.Sân Golf Phú Mỹ. \n\t 4.Sân Golf Sông Bé.\n Và một số địa điểm khác như:Làng tre Phú An,Khu du lịch Phương Nam,Khu du lịch Dìn Ký"
+         ]
+      },
+      {
+         "tag":"bảo_tàng",
+         "question":[
+            "bảo tàng bình dương",
+            "Tham quan di tích Bình Dương",
+            "Tham quan những nơi lịch sử bình dương",
+            "du lịch tìm hiểu lịch sử Bình Dương"
+         ],
+         "answer":[
+            "Có thể kể một số địa điểm di tích nổi tiếng như:\n\t- Địa đạo Tam giác sắt Tây Nam Bến Cát.\n\t- Núi Cậu \n\t- Lòng Hồ Dầu Tiếng.\n\t- Sở chỉ huy tiền phương chiến dịch Hồ Chí Minh.\n\t- Nhà tù Phú Lợi.\n\t- Nhà cổ Trần Công Vàng.\n\t - Núi Châu Thới."
+         ]
+      },
+      {
+         "tag":"Quán_ăn",
+         "question":[
+            "DANH SÁCH NHỮNG QUÁN ĂN NGON Ở BÌNH DƯƠNG",
+            "du lịch Bình Dương ăn gì",
+            "Món ăn ngon Bình Dương",
+            "Món ăn tên tuổi tại Bình Dương",
+            "Quán ăn Bình Dương",
+            "Quán ăn cho khách du lịch",
+            "những đặc sản bình dương"
+         ],
+         "answer":[
+            "Cháo vịt Cu Chì: 66 Hồ Văn Cống - Cầu Bà Xàng - Tương Bình Hiệp - Thị xã Thủ Dầu Một - Bình Dương.\n- Cháo lòng Cây Me gần cà phê Gió và Nước.\n- Quán ăn gia đình Hai Thành: 7 Nguyễn Chí Thanh, Hiệp An, Thị xã Thủ Dầu Một, Bình Dương.\n- Bánh bèo Mỹ Liên - Chợ Búng - 188A KP. Thạnh Hòa A Tỉnh Lộ 745, TT. An Thạnh, Thuận An, Bình Dương.\n- Dìn Ký Lái Thiêu: Quốc lộ 13 Vĩnh Phú, Huyện Thuận An, Bình Dương.\n- Cơm Niêu Tiên Phú: 5C Ấp Bình Đức, Huyện Thuận An, Bình Dương.\n- Lương Sơn quán - kế đài truyền hình Bình Dương.\n- Quán Dê Ngon Quá - Đường Nguyễn Thị Minh Khai - Khu 9 - Phú Hòa - TDM - Bình Dương. Nằm bên hông công ty cám Phú Lợi, đối diện trường tiểu học Phú Hòa 2.\n- Quán Hàng Dừa - 1334 Cách mạng Tháng 8, P. Phú Thọ, Thị xã Thủ Dầu Một, Bình Dương (nổi tiếng cá lóc hấp, nướng và bò nướng mỡ chài)."
+         ]
+      },
+      {
+         "tag":"Kinh_nghiệm_du_lịch",
+         "question":[
+            "Kinh nghiệm du lịch",
+            "Hướng dẫn du lịch",
+            "Những lưu ý cần biết khi đi du lịch",
+            "Chú ý khi đi du lịch",
+            "điều cần phải quan tâm trước khi đi du lịch",
+            "Cẩm nang du lịch"
+         ],
+         "answer":[
+            " Những điều bạn cần lưu ý khi chuẩn bị đi du lịch: Đảm bảo tham khảo lộ trình phù hợp với thời gian để đi du lịch, Lên sẵn lộ trình kế hoạch phù hợp với túi tiền của mình,tìm hiểu trước các thông tin cơ bản trước khi đến nơi du lịch. Chúc bạn có một chuyến đi vui vẻ."
+         ]
+      },
+      {
+         "tag":"Thue_xe",
+         "question":[
+            "Thuê xe Bình Dương",
+            "du lịch bình dương đi lại bằng gì",
+            "thuê xe chất lượng Bình Dương",
+            "thuê xe giá rẻ tại bình dương",
+            "Đi lại ở Bình Dương"
+         ],
+         "answer":[
+            " Dịch vụ cho thuê xe máy Như Quỳnh: Địa chỉ: Hẻm 172 Trần Văn Ơn, P. Phú Hòa, Thủ Dầu Một, Bình Dương SĐT: 0939 225 160.\n Dịch vụ cho thuê xe máy tại Bến Cát: Địa chỉ: 34 Lô F2, Đại Lộ NA3, KĐT Mỹ Phước, Mỹ Phước, Bình Dương, SĐT: 0906 305 234.\n Phương Nam Resort: Địa chỉ: 15/12 khu phố trung, Vĩnh Phú, Thuận An, Bình Dương, SĐT: 024 7109 9999"
+         ]
+      },
+      {
+         "tag":"di_tích",
+         "question":[
+            "ở bình dương có những di tích nào",
+            "những di tích nổi tiếng ở bình dương",
+            "các di tích lịch sử ở bình dương"
+         ],
+         "answer":[
+            "Bot gợi ý một số di tích cho bạn tham khảo: \n-Lò lu đại hưng, đình phú cường, dinh tỉnh trưởng tỉnh phước thành, vườn cao su thời pháp thuộc, chiến khu thuận an hoà, nhà cổ ông nguyễn tri quang, nhà cỗ ông đõ cao thứa, đình phú long, nhà cổ ông trần công vàng, nhà cổ ông trần văn hổ"
+         ]
+      },
+      {
+         "tag":"chùa_nhà_thờ",
+         "question":[
+            "ở bình dương có những nhà thờ nào",
+            "ở bình dương có những chùa nào",
+            "những nhà thờ đẹp tại bình dương",
+            "những chùa đẹp tại bình dương",
+            "chùa nào nổi tiếng tại bình dương",
+            "nhà thờ nào nổi tiếng tại bình dương",
+            "chùa nào được nhiều người ghé thăm tại bình dương",
+            "nhà thờ nào được nhiều người ghé thăm tại bình dương",
+			"ở bình dương cầu duyên ở đâu",
+			"cầu duyên ở chùa nào tại bình dương",
+			"cầu duyên ở nhà thờ nào tại bình dương"
+         ],
+         "answer":[
+            "Bot gợi ý một số địa điểm cho bạn tham khảo:\n\t - Nhà thờ: nhà thờ chánh toà phú cường\n\t-Chùa: chùa châu thới, chùa bà, chùa hội khánh, chùa tây tạng"
+         ]
+      },
+      {
+         "tag":"địa_điểm_nổi_tiếng",
+         "question":[
+            "ở bình dương có những địa điểm nổi tiếng nào",
+            "những cảnh đẹp tại bình dương",
+            "nên đi du lịch ở đâu tại bình dương",
+            "những địa điểm nổi tiếng nên đi ở bình dương"
+         ],
+         "answer":[
+            "Bot gợi ý một số địa điểm nổi tiếng cho bạn tham khảo: hồ bình an, làng sơn mài tương bình hiệp, làng nghề gốm sứ, cụm du lịch dầu tiếng, vườn cây ăn trái lái thiêu, khu du lịch đại nam, nhà tù phú lợi, làng tre phú an, du lịch sinh thái thuỷ châu, aeon mall bình dương, khu du lịch dìn ký, công viên thành phố mới, lạc cảnh đại nam văn hiến, công viên nước thanh lễ, chợ đêm và phố đi bộ bạch đằng"
+         ]
+      },
+      {
+         "tag":"Chọn_BD",
+         "question":[
+            "du lịch gần sài gòn",
+            "Du lịch gần tp.HCM",
+            "Du lịch nhanh",
+            "du lịch cuối tuần"
+         ],
+         "answer":[
+            "Có 2 lý do để du lịch Bình Dương vẫn có một sức hút riêng, bởi không chỉ có nhiều địa điểm vui chơi giải trí rộng lớn mà còn sở hữu phong cảnh đầy hữu tình."
+		]
+      }
+   ]
+}
