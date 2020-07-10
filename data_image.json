@@ -1,0 +1,141 @@
+{
+   "intents":[
+      {
+         "tag":"Khách_sạn_BD",
+         "question":[],
+         "answer":[
+            "https://q-cf.bstatic.com/images/hotel/max1024x768/228/228490769.jpg", 
+			"https://staticproxy.mytourcdn.com/1000x600,q90/resources/pictures/hotels/15/HZlAVazTSHKUyy3KJg7N4Q-64-kh%25C3%25A1ch%2520s%25E1%25BA%25A1n.jpeg"
+         ]
+      },
+      {
+         "tag":"Vui_chơi_BD",
+         "question":[],
+         "answer":[
+            "https://dulichmien.net/wp-content/uploads/2018/10/khu_du_lich_dai_nam-1.jpg",
+			"https://www.hivietnam.net/vi/docs/2013/08/Nhung-khu-vui-choi-giai-tri-o-Binh-Duong_01b.jpg"
+         ]
+      },
+      {
+         "tag":"Chơi_Đêm_BD",
+         "question":[],
+        "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGxmOMF_tfqReK7BhiclUaEE6JjIRFIkZKnA&usqp=CAU.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvwxSlsFAaFBz2TYd4Fm3Sm8SgLp-D94RFRA&usqp=CAU.ipg",
+          "https://ashui.com/mag/images/stories/200812/gionuoc5.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJQMZOUpxnKMVmHJDkfZ3FkOoernB4uE_x9A&usqp=CAU.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWwNPbtUPzqZZCmLUQtSalulKvx94l1zTCMg&usqp=CAU.jpg"
+        ]
+      },
+	  {
+	  "tag":"quán_bar",
+	  "question":[],
+      "answer": [
+        "https://images.foody.vn/res/g12/110857/s/foody-monaco-beer-club-996-635925407854935729.jpg",
+        "https://quangcaothienung.vn/uploads/quan_bar_lao_cai_/thiet_ke_bar_vu_truong_club_tug_18_1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQMHRmfV7h9N_RyCbNFx4IehtNuo9RBVJpoAw&usqp=CAU.jpg"
+       ]
+	  },
+      {
+         "tag":"Quan_cafe",
+         "question":[],
+        "answer": [
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/03/khong-gian-quan-cafe-gio-va-nuoc.png",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/03/quan-cafe-gio-va-nuoc.png",
+          "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2018/03/hoang-cung-quan.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRk6ATO9t2cuHGW17QROQ_bj0pW9Zn1VtJRTw&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQiy0hrOMc_gKxbfOMqgAbHHC3V3CBsYKfF4w&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRjyMU8s7dKQFe6J7Jot_qfqMYd6_s2IdIEjA&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQUmYIl9M_zyL3Ma79r4IClUPSKwWnLg7aiQ&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcST4OrBvK1t_Jje9AhckkAzsGr5dwJXmnNq0Q&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT_EFEAAikUVt9IZy5XVthzEfTwrTCY2ZfeUg&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRx9T9qb_SMBUdW_27MjprpiVZyOjl5xLajuQ&usqp=CAU.png"
+        ]
+      },
+      {
+         "tag":"phương_tiện",
+         "question":[],
+         "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQsfmcdOLc4ulVEXmMcypEtjM2yU-Hdy3zvfA&usqp=CAU.jpg",
+          "https://image.plo.vn/w653/Uploaded/2020/qjfsm/2020_03_28/ngung-hoat-dong-xe-buyt2_wapy_thumb.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBQEOJelK_k8kKlqNLLOK4qB2zAaaEPW2EMg&usqp=CAU.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQe3E4-82FmJAOHOo-XTQjJwPvazofhtM45-g&usqp=CAU.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ8t_1iPodUW-2CKV98HsSR2xiG_Q1pCjV3AQ&usqp=CAU.jpg"
+        ]
+      },
+      {
+         "tag":"Khu_Du_lịch",
+         "question":[],
+        "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ6r84i7-DXczLRVqMjRmPTahIpwkBEszFkQ&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSJ6r84i7-DXczLRVqMjRmPTahIpwkBEszFkQ&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTH4RuZp0-9-_H9VwOwcYqcXUdn0x47g6bieg&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTs4eRG7Vc2rKjZnHJbZCeL3mRnCxWDfEZdtg&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS31T3cIhCbRQceoXLtKaUcI884RukUNgzzmg&usqp=CAU.png",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfL2XbGsnUwPjjWXKHStMbxyVfDWIX-EQuzQ&usqp=CAU.png",
+          "https://thicongsantapgolf.com/wp-content/uploads/2018/06/san-golf-phu-my-tot.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcb8afe8xb33L-sHiqoOEL38cLtxz8la86Xw&usqp=CAU.jpg"
+        ]
+      },
+      {
+         "tag":"bảo_tàng",
+         "question":[],
+         "answer": [
+          "https://www.binhduong.gov.vn/DataOld/bao-tang-binh-duong.jpg",
+          "https://mnhuynhthihieu.tptdm.edu.vn/uploads/mnhuynhthihieu/news/2019_02/img20190314093638.jpg",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqGR8N51sIqkmnSq-1BPA3SXpyRv1Nv3WrYg&usqp=CAU.jgp"
+        ]
+      },
+      {
+         "tag":"Quán_ăn",
+         "question":[],
+        "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGMXBhu7OQ5WbAtf8DxYGUSJEDzcyZ34d_kw&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRyD0BpMdkmdVs2N1TIETHEO-tKqvHZs7tfA&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDiJa558You2vTSu1P-avlOodBu6uDMeIqxQ&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSb6m1HCH9MRJt3e25QaDhBnm77A0aCJwrkg&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQgS2XMVEY_w1nB5vCSwmL-ZqjKwYSUJIfrjQ&usqp=CAU.jgp"
+        ]
+      },
+      {
+         "tag":"Thue_xe",
+         "question":[],
+         "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTFEwmnxq-DhFbg2tT37aTH6PCn7Jnv9wF3Q&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS4dRDZzl2O-w5VrS82iiDJMPv4hq4Dlbt3Yw&usqp=CAU.jgp"
+         ]
+      },
+      {
+         "tag":"di_tích",
+         "question":[],
+         "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxWd5Yot7Q7htQnpx7QQa9GMkkYFV03SISOg&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTTdUyNUG34i8eVNcTRKp_BWcJFbPXDpFFCiQ&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtguH07RJDXqCjVmBbDQcBqyZ1FZFxaGpW2g&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQJlaHvjUShNpALItRXyzR5bJ0FDhHpkB3bYA&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2ohEfQ9ad2lQd1H7qzRnXczfDzCVfmuA6cw&usqp=CAU.jgp"
+        ]
+      },
+      {
+         "tag":"chùa_nhà_thờ",
+         "question":[],
+         "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqqVZ7-ppTGp2SI2aiwrIdmD4Np9yTr_598g&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQCbQE9ViufqH3zPlm3_Br-K-E5sT_1NVaDCw&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSV0TyWN8FzV5zlI7gdEotklryHroJgayWxRw&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScxQxQgjAZ6eWeum7cPiXJ0jHTLfwrRkH_gg&usqp=CAU.jgp"
+        ]
+      },
+      {
+         "tag":"địa_điểm_nổi_tiếng",
+         "question":[],
+         "answer": [
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgMjQYmhYReAIhUpVKIy819-c8e7hpNXnJZA&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAxPuEdvAdz-VQNT5x9kQvVzhVOt96wpH7BA&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRembeniUAZU-fCo63deIOi7sgkBM_N20iSPQ&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ2G76h6DfuajYk1FUY1tyQKWuP0kXI_Gs-NQ&usqp=CAU.jgp",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRnuAkBCLXw-L9aYFDXOwq7jyE8_lojtPXK5g&usqp=CAU.jgp"
+        ]
+      }
+   ]
+}

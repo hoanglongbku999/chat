@@ -119,11 +119,18 @@ def getRespond(tag):
     return result
 import glob
 def get_response_image(tag):
-    folder = 'image_response/'
-    path = folder + tag + '/*'
-    print(glob.glob(path))
-
-    return path
+    data_file = open('data_image.json', encoding='utf-8').read()
+    intents_json = json.loads(data_file)
+    list_of_intents = intents_json['intents']
+    result = ""
+    for i in list_of_intents:
+        if (i['tag'] == tag):
+            result = random.choice(i['answer'])
+            break
+    if result == "":
+        return "None"
+    else:
+        return result
 
 @app.route("/")
 def home():
@@ -139,7 +146,8 @@ def classify_text():
     input_feature_tfidf = vectorizer.transform([input_feature])
     intent_input = classifier.predict(input_feature_tfidf)[0]
     response  = getRespond(intent_input)
-    r = {'query': text.encode('utf8').decode('utf8'), 'response':response.encode('utf8').decode('utf8'), 'path_image': 'D:/...'}
+    response_image = get_response_image(intent_input)
+    r = {'query': text.encode('utf8').decode('utf8'), 'response':response.encode('utf8').decode('utf8'), 'path_image': response_image.encode('utf8').decode('utf8')}
     return jsonify(r)
     #return render_template("Result.html", data = [{"query":text, "response" : response}])
 
